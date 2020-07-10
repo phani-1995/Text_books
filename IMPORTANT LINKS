@@ -14,3 +14,28 @@ https://github.com/n1e2h4a/DOCUMENTATIONS/blob/master/HADOOP/HADOOPINSTALLATION.
 
 # Hive
 
+## ELASTIC SEARCH THEORY 
+
+https://docs.google.com/document/d/1RVefeh1zeY_vsvFm39z4AbcPv5REFcLca-L92qlKJQc/edit#
+
+## ELASTIC SEARCH WITH PYTHON 
+
+https://docs.google.com/document/d/1yej7G_etaIMTt_rMxhf3bb60v_olnECwLxcGsAOgykc/edit#
+
+## Installing anaconda on GCP 
+RESOURCE:
+https://tudip.com/blog-post/run-jupyter-notebook-on-google-cloud-platform/
+------------------------------------------------------------------------------------------------------------------------
+# Elastic Search 
+resources:
+
+https://www.tutorialspoint.com/elasticsearch/index.htm
+
+https://cdcvs.fnal.gov/redmine/attachments/download/33047/Basic%20concepts%20about%20Elasticsearch%20(1).pdf
+
+https://medium.com/analytics-vidhya/quick-start-elasticsearch-with-python-a2578cd87339
+-------------------------------------------------------------------------------------------------------------------------
+================================
+### UDF Functions in pyspark
+
+https://www.bmc.com/blogs/how-to-write-spark-udf-python/
